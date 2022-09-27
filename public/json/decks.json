@@ -1,0 +1,38 @@
+[
+    {
+    "id":1, 
+    "nombre":"Gillet",
+    "marca":"Primitive",
+    "precio": 500,
+    "stock": 5,
+    "img": "deck_1.jpg"
+},
+
+    {
+    "id":2, 
+    "nombre":"Vianna",
+    "marca":"Primitive",
+    "precio": 400,
+    "stock": 5,
+    "img": "deck_2.jpg"
+},
+
+    {
+    "id":3, 
+    "nombre":"Hamilton",
+    "marca":"Primitive",
+    "precio": 700,
+    "stock": 4,
+    "img": "deck_3.jpg"
+},
+
+    {
+    "id":4, 
+    "nombre":"Silvas",
+    "marca":"Primitive",
+    "precio": 700,
+    "stock": 4,
+    "img": "deck_4.jpg"
+}
+
+]

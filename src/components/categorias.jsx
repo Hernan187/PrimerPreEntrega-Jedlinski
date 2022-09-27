@@ -4,7 +4,7 @@ const Categorias = () => {
     return (
         <>
             <li className="nav-item">
-          <a className="nav-link active" href="#">Skates
+          <a className="nav-link active" href="#">Decks
             {/* <span className="visually-hidden">(current)</span> */}
           </a>
         </li>
@@ -15,7 +15,7 @@ const Categorias = () => {
           <a className="nav-link active" href="#">Wheels</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" href="#">Else</a>
+          <a className="nav-link active" href="#">Media</a>
         </li>
         </>
     );

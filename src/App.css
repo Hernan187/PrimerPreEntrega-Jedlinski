@@ -1,0 +1,16 @@
+.cardProducto {
+    width: 18rem;
+    margin: 5px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.foto {
+    width: 2em;
+    height: 2em;
+    margin: 10px;
+}

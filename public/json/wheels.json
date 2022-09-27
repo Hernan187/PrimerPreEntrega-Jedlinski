@@ -1,0 +1,47 @@
+[
+    {
+    "id":1, 
+    "nombre":"Green",
+    "marca":"Spitfire",
+    "precio": 300,
+    "stock": 5,
+    "img": "trucks1.jpg"
+},
+
+    {
+    "id":2, 
+    "nombre":"Red",
+    "marca":"Spitfire",
+    "precio": 300,
+    "stock": 5,
+    "img": "trucks2.jpg"
+},
+
+    {
+    "id":3, 
+    "nombre":"Purple",
+    "marca":"Spitfire",
+    "precio": 300,
+    "stock": 4,
+    "img": "trucks3.jpg"
+},
+
+    {
+    "id":4, 
+    "nombre":"Blue",
+    "marca":"Spitfire",
+    "precio": 300,
+    "stock": 4,
+    "img": "trucks4.jpg"
+},
+
+    {
+    "id":5, 
+    "nombre":"Yellow",
+    "marca":"Spitfire",
+    "precio": 300,
+    "stock": 4,
+    "img": "trucks5.jpg"
+}
+
+]
